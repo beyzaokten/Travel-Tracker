@@ -25,5 +25,7 @@ Travel Tracker is a web application that allows users to track the countries the
 3. Click "Add" to mark the country on the map.
 4. The map will visually indicate the countries you have visited.
 5. The total count of visited countries will be displayed at the top.
+   
+![TravelTracker](https://github.com/beyzaokten/Travel-Tracker/assets/95380183/ad1faa60-d388-46eb-8be1-73c6ac0e0125)
 
 
